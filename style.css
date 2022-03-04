@@ -1,0 +1,100 @@
+
+a {
+   color: black;
+   text-decoration: none;
+   font-family: MaisonNeue-Book;
+   font-size: 14px;
+}
+
+h1:hover + body {
+  filter: invert(100%);
+
+}
+
+a:hover {
+   color: blue;
+   text-decoration:none;
+   cursor:pointer;
+}
+
+p {
+  font-family: MaisonNeue-Book;
+  font-size: 15px;
+  margin-right: 70%;
+  color: gray;
+
+}
+
+h2 {
+  font-family: MaisonNeue-Mono;
+  font-size: 14px;
+  font-weight: 100;
+  letter-spacing: -0.5px;
+}
+
+h3 {
+  font-family: sans-serif;
+  font-weight: 100;
+  font-style: 12px;
+}
+
+h3:hover {
+  color: blue;
+}
+
+body {
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+style {
+  height: 200px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(#00FF38,white);
+}
+
+img {
+  max-width: 80%;
+  padding-top: 2%;
+}
+
+
+
+
+.header {
+            height: 30px;
+            text-align: Left;
+        }
+.left-col, .right-col {
+            width: 25%;
+            margin-top: 4px;
+            height: 470px;
+            float: left;
+            position: relative;
+        }
+.center-col, .center2-col {
+            width: 25%;
+            margin-top: 4px;
+            height: 470px;
+            float: left;
+            position: relative;
+        }
+.footer {
+                    clear: both;
+                    text-align: left;
+                    font-weight: 500;
+                    font-size: 15px;
+                    padding-top: 550px;
+                    font-family: MaisonNeue-Book;
+                    box-sizing: border-box;
+        }
+
+.copy {
+  margin-right: 50%;
+  columns: 1;
+}
+
+
+.text {
+  padding-right: 9%;
+}
