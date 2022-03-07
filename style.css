@@ -1,3 +1,8 @@
+@@font-face {
+  font-family: 'MaisonNeue-Book';
+  src: url(MaisonNeue-Book.otf);
+}
+
 
 a {
    color: black;
