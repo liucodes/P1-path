@@ -1,11 +1,11 @@
-@@font-face {
-  font-family: MaisonNeue-Book;
-  font-family: MaisonNeue-Mono;
-  src: url(MaisonNeue-Book.otf);
-
-  src: url(MaisonNeue-Book.otf);
+@font-face {
+    font-family: MaisonNeue-Mono;
+    src: url(https://files.cargocollective.com/c1381777/MaisonNeue-Mono.otf);
 }
-
+@font-face {
+    font-family: MaisonNeue-Book;
+    src: url(https://files.cargocollective.com/c791355/MaisonNeue-Book.otf);
+}
 
 a {
    color: black;
