@@ -1,5 +1,8 @@
 @@font-face {
-  font-family: 'MaisonNeue-Book';
+  font-family: MaisonNeue-Book;
+  font-family: MaisonNeue-Mono;
+  src: url(MaisonNeue-Book.otf);
+
   src: url(MaisonNeue-Book.otf);
 }
 
