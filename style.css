@@ -62,8 +62,8 @@ style {
 }
 
 img {
-  max-width: 80%;
-  padding-top: 2%;
+  max-width: 90%;
+  padding-top: 10%;
 }
 
 
@@ -74,16 +74,16 @@ img {
             text-align: Left;
         }
 .left-col, .right-col {
-            width: 25%;
+            width: 50%;
             margin-top: 4px;
-            height: 470px;
+            height: 320px;
             float: left;
             position: relative;
         }
 .center-col, .center2-col {
-            width: 25%;
+            width: 50%;
             margin-top: 4px;
-            height: 470px;
+            height: 320px;
             float: left;
             position: relative;
         }
