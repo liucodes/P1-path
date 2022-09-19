@@ -14,12 +14,12 @@ a {
    font-family: MaisonNeue-Book;
 }
 
-h1:hover + body {
+h1:active + body {
   filter: invert(100%);
 
 }
 
-a:hover {
+a:active {
    color: blue;
    text-decoration:none;
    cursor:pointer;
